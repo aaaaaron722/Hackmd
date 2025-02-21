@@ -1,3 +1,3 @@
 ## This repo was backed up from Hackmd.io
 
-You could check the oringinal source here: https://hackmd.io/@Aaron722
+You could check the original source here: https://hackmd.io/@Aaron722
