@@ -84,7 +84,7 @@ public:
 };
 ```
 ![截圖 2024-12-19 中午12.08.12](https://hackmd.io/_uploads/By5rTfZSJe.png)
-And I got 100& beats and 0ms. Hence, I think it's good enough.
+And I got 100% beats and 0ms. Hence, I think it's good enough.
 If you have another better solution, leave your comment.
 
 ### Thinking process
@@ -96,5 +96,5 @@ Finally, I came up with the condition which is
 
     if(str[i] == str[len - 1 - i])
 so that I can compare the first character and the last.
-If not equal, then we break the loop and return false, that is.
+If not equal, then we break the loop and return false, that it.
 
